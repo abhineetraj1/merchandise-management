@@ -1,5 +1,5 @@
 # Decentralized merchendise management
-
+![alt text](https://raw.githubusercontent.com/abhineetraj1/merchendise-management/main/screenshot.png)
 This project is a communication app for businesses that sell merchandise. It allows retailers to send orders to wholesalers and track their order history. Wholesalers can store orders from retailers, order products from manufacturers, and track pending and delivered orders. Manufacturers can receive orders from retailers, store them in their system, and track pending and delivered orders.
 
 ## Installation
